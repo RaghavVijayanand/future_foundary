@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Shell scripts
+*.sh
+
+# Pickle files (model/data)
+*.pkl
+
+# Procfile (Heroku or similar platform)
+Procfile
+
+# Local folders you may not want to track
+CBRS_KNN/
+
+# OS/IDE clutter
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
